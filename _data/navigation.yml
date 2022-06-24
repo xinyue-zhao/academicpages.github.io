@@ -7,7 +7,7 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: {{site.baseurl}}/teaching/     
+    url: /teaching/     
     
   - title: "CV"
     url: https://drive.google.com/file/d/1r1JulYMyQXiFQiGpUFx5BPopbiE_g0w_/view?usp=sharing
