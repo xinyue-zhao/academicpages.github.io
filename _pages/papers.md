@@ -1,8 +1,10 @@
 ---
-title: Publications
-layout: default
-permalink: /publications/
-published: true
+permalink: /papers/
+title: "Publications"
+author_profile: true
+redirect_from: 
+  - /papers/
+  - /papers.html
 ---
 
 <a href="https://scholar.google.com/citations?user=jlRNTa8AAAAJ&hl=en">My Google Scholar Profile</a>
