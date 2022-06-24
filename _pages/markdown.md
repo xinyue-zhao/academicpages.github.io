@@ -8,22 +8,24 @@ redirect_from:
 ---
 
 ## Current Teaching
-Fall 2022. MATH 3640/5640 Probability
+* Fall 2022. MATH 3640/5640 Probability
 
-Fall 2022. MATH 2410: Methods of Linear Algebra
+* Fall 2022. MATH 2410: Methods of Linear Algebra
 
 ## Previous Teaching
-* Courses taught at Vanderbilt
-Spring 2022. MATH 2410: Methods of Linear Algebra
+<b>Courses taught at Vanderbilt</b>
 
-Fall 2021. MATH 1301 Discussion: Accelerated Single-Variable Calculus II
+* Spring 2022. MATH 2410: Methods of Linear Algebra
 
-* Courses taught at Notre Dame
-Fall 2019. ACMS 22550 Intro Appl Math Mthds Tutorial
+* Fall 2021. MATH 1301 Discussion: Accelerated Single-Variable Calculus II
 
-Spring 2019. ACMS 22550 Intro Appl Math Mthds Tutorial
+<b>Courses taught at Notre Dame</b>
 
-Fall 2018. ACMS 22550 Intro Appl Math Mthds Tutorial
+* Fall 2019. ACMS 22550 Intro Appl Math Mthds Tutorial
 
-Fall 2017. ACMS 21210 Scientific Computing Lab
+* Spring 2019. ACMS 22550 Intro Appl Math Mthds Tutorial
+
+* Fall 2018. ACMS 22550 Intro Appl Math Mthds Tutorial
+
+* Fall 2017. ACMS 21210 Scientific Computing Lab
 
